@@ -6,7 +6,7 @@ on:
       - vetka
 
 
-  pull_repost:
+  pull_request:
     branches:
       - vetka
 
